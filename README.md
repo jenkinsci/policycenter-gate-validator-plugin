@@ -1,0 +1,2 @@
+# policycenter-gate-validator
+The Policy Center Gate Validator, a jenkins plugin, is to abort or continue the automated build and deployment pipeline based on the status of policy gates that have been configured inside of Policy Center.  This allows Jenkins to automate the continuous release / continuous deployment pipeline with acceptance policies defined in Policy Center for each step along the way.
