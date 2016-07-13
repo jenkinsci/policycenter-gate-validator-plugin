@@ -16,7 +16,7 @@
   <version>1.0.0-SNAPSHOT</version>
   <packaging>hpi</packaging>
 
-  <name>Parasoft Policy Center Gate Checker </name>
+  <name>Parasoft Policy Center Gate Check Validator</name>
   
   <properties>
     <jenkins.version>1.625.3</jenkins.version>
