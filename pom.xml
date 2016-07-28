@@ -39,9 +39,9 @@
   </developers>
 
   <scm>
-    <connection>scm:git:ssh://github.com/parasoft/policycenter-gate-validator.git</connection>
-    <developerConnection>scm:git:ssh://git@github.com/parasoft/policycenter-gate-validator.git</developerConnection>
-    <url>https://github.com/parasoft/policycenter-gate-validator</url>
+    <connection>scm:git:ssh://github.com/jenkinsci/policycenter-gate-validator-plugin.git</connection>
+    <developerConnection>scm:git:ssh://git@github.com/jenkins/policycenter-gate-validator-plugin.git</developerConnection>
+    <url>https://github.com/jenkinsci/policycenter-gate-validator-plugin</url>
     <tag>HEAD</tag>
   </scm>
 
