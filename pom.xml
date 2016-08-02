@@ -12,7 +12,7 @@
   
   <groupId>com.parasoft</groupId>
   <artifactId>policycenter-gate-validator</artifactId>
-  <version>1.0.1</version>
+  <version>1.0.2-SNAPSHOT</version>
   <packaging>hpi</packaging>
   <url>https://wiki.jenkins-ci.org/display/JENKINS/PolicyCenter+Gate+Validator+Plugin</url>
   
@@ -42,7 +42,7 @@
     <connection>scm:git:ssh://github.com/jenkinsci/policycenter-gate-validator-plugin.git</connection>
     <developerConnection>scm:git:ssh://git@github.com/jenkinsci/policycenter-gate-validator-plugin.git</developerConnection>
     <url>https://github.com/jenkinsci/policycenter-gate-validator-plugin</url>
-    <tag>policycenter-gate-validator-1.0.1</tag>
+    <tag>HEAD</tag>
   </scm>
 
   <licenses>
